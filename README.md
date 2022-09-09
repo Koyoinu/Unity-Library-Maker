@@ -3,3 +3,4 @@ Do you have a shit ton of Avatar files that you want to organize welp your in lu
 
 - [x] Avatars
 - [ ] Avatar addons
+- [ ] Beter Folder categorization
